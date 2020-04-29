@@ -473,3 +473,9 @@ dependencies:
   url: https://github.com/jenkins-x-labs/istio
   version: 0.0.21
   versionURL: ""
+- host: github.com
+  owner: jstrachan
+  repo: jxr-versions
+  url: https://github.com/jstrachan/jxr-versions
+  version: 0.0.55
+  versionURL: ""
